@@ -22,7 +22,7 @@
 [![Bassou's github stats](https://github-readme-stats.vercel.app/api?username=BassouBoussalh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BassouBoussalh)
 
 <!-- GitHub streak -->
-[![Bassou's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=BassouBoussalh&theme=radical&hide_border=false)](https://github.com/BassouBoussalh)
+[![Bassou's github stats](https://github-readme-stats.vercel.app/api?username=BassouBoussalh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BassouBoussalh)
 
 #### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bousalh-bassou-8521742a4)
