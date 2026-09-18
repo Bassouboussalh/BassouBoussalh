@@ -18,8 +18,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- GitHub stats -->
-[![Bassou's github stats](https://github-readme-stats.vercel.app/api?username=BassouBoussalh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BassouBoussalh)
 
 <!-- GitHub streak -->
 [![Bassou's github stats](https://github-readme-stats.vercel.app/api?username=BassouBoussalh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BassouBoussalh)
