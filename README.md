@@ -11,5 +11,18 @@
 
 
 
-<!-- GitHub streak from https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![Bassou's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=BassouBoussalh&theme=radical&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats)
+#### 🛠️ Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- GitHub stats -->
+[![Bassou's github stats](https://github-readme-stats.vercel.app/api?username=BassouBoussalh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BassouBoussalh)
+
+<!-- GitHub streak -->
+[![Bassou's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=BassouBoussalh&theme=radical&hide_border=false)](https://github.com/BassouBoussalh)
+
+#### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bousalh-bassou-8521742a4)
